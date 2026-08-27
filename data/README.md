@@ -10,7 +10,6 @@ The project uses monthly data from:
 **January 2024 – December 2025**
 
 The BTS source contains flight-level information covering carriers, airports, scheduled and actual operations, cancellations, diversions, and delay causes. The bundled BTS documentation identifies this as the Marketing Carrier On-Time Performance dataset and describes the monthly file naming convention. 
-For additional details, see the [Data README](data/column_descriptions.md).
 
 ## Airport Metadata
 
